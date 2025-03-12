@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs and Results
+logs/
+*.log
+results/
+*.csv
+*.pkl
+*.h5
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python Environment & Dependencies
+.env
+*.venv
